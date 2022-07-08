@@ -1,5 +1,6 @@
 #title: "Attachment Styles and Workaholism"
 #author: (anonymized for peer review)
+#date June 18, 2022
 #output:
 #html_document
 #theme: cosmo
